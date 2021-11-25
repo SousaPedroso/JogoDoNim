@@ -11,11 +11,11 @@
 
 - Para jogar, *clone* esse repositório e execute no terminal:
 ```
-$ python JogoDoNimOriginal.py
+python JogoDoNimOriginal.py
 ```
 Se quiser jogar a proposta inicial, ou:
 ```
-$ python JogoDoNimProposto.py
+python JogoDoNimProposto.py
 ```
 Se quiser jogar a modificação proposta.
 
